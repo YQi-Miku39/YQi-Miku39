@@ -1,6 +1,6 @@
 # Yuyang (Kyle) Qi
 
-**Statistics @ University of Toronto · Data / ML · Security**
+**Statistics @ University of Toronto · Data / ML**
 
 I build reproducible data workflows and applied machine-learning systems, with an emphasis on data quality, traceability, and real-world failure modes.
 
@@ -9,7 +9,6 @@ I build reproducible data workflows and applied machine-learning systems, with a
 - Interested in **computer vision, imitation learning, data engineering, automation, and security**
 - Toronto, Canada
 - Email: **kyle.qi@mail.utoronto.ca**
-- LinkedIn: **[add LinkedIn URL]**
 - Resume: **[add resume link]**
 
 ## Selected Projects
