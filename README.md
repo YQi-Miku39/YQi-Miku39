@@ -9,7 +9,6 @@ I build reproducible data workflows and applied machine-learning systems, with a
 - Interested in **computer vision, imitation learning, data engineering, automation, and security**
 - Toronto, Canada
 - Email: **kyle.qi@mail.utoronto.ca**
-- Resume: **[add resume link]**
 
 ## Selected Projects
 
