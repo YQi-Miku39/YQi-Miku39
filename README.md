@@ -16,7 +16,7 @@ I build reproducible data workflows and applied machine-learning systems, with a
 
 **Python · PyTorch · Computer Vision · Imitation Learning · Real-Time Control**
 
-A research-style game agent project whose current goal is to defeat Iudex Gundyr from gameplay pixels and real-time virtual input.
+A research-style game agent project whose current goal is to defeat all bosses in Dark Souls III from gameplay pixels and real-time virtual input.
 
 The project began with a hybrid baseline that combined RGB behavior cloning with privileged RAM/TAE-assisted supervision and reached approximately a 70% local win rate. The current Phase 2 removes privileged runtime information: visual perception is nearing completion, with behavior cloning as the next major stage.
 
